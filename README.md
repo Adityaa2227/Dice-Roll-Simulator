@@ -6,7 +6,7 @@ A simple and interactive Dice Roll Simulator built using HTML, CSS, and JavaScri
 
 ## 🚀 Live Demo
 
-[Click here to try the live version](#) <!-- Replace # with your live demo link if available -->
+[Click here to try the live version](https://adityaa2227.github.io/Dice-Roll-Simulator/) <!-- Replace # with your live demo link if available -->
 
 ---
 
